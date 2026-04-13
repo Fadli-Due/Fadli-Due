@@ -22,18 +22,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fadli-Due&show_icons=true&theme=tokyonight" alt="Due's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadli-Due&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## Languages and Tools
 
 <p align="center">
